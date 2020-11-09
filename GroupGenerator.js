@@ -73,7 +73,7 @@ function Generator(students, topics, Groups){
 
 
     }
-    //console.log(students)
+    console.log(students)
 
 
 }
