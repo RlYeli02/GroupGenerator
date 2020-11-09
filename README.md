@@ -3,7 +3,7 @@
 
 ## instructions
 
-1. to set up the project only you need to do is **npm install**.
+1. to set up the project only you need to do is **npm install** and **npm install node** version 12.
 2. the path to file1.txt.
 3. the path to file2.txt.
 4. the ammount of groups.
