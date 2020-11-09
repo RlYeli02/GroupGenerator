@@ -1,4 +1,5 @@
 # GroupGenerator
+This program will generate groups at random, given a txt file of students, a txt file of topics and a desired group number.
 
 
 ## instructions
