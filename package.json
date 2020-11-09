@@ -1,0 +1,16 @@
+{
+  "name": "groupgenerator",
+  "version": "1.0.0",
+  "description": "algoritmo para generar grupos de acuerdo a cantidad de estudiantes, temas y cantidad de grupos deseado por el usuario.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franyeliza Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.2.0",
+    "yards": "^0.1.4",
+    "yargs": "^16.1.0"
+  }
+}
